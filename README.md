@@ -13,7 +13,7 @@ Primary Authors
     @abhishek created a user friendly UI using streamlit to enhance user experience and also documented the whole project.
 
 
-* __[Tanisha Chitnis](https://github.com/TanishaChitnis)__
+* __[Tanisha Chitnis](https://github.com/TanishaChitnis27)__
 
     @tanisha seamlessly integrated the machine learning model into the UI, wrote logic for counting reps & sets and also code to store users progress in database for analysis.
 
